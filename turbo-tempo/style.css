@@ -1,0 +1,20 @@
+/* Turbo Tempo Racing — privacy & support pages. Self-contained: no web fonts, scripts, cookies or third-party requests. */
+:root{color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:#140a2e;color:#efe9ff;font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+main{max-width:720px;margin:0 auto;padding:32px 20px 56px}
+header{display:flex;align-items:center;gap:16px;margin-bottom:8px}
+header img{width:72px;height:72px;border-radius:16px;box-shadow:0 0 0 2px #000,0 4px 0 #000}
+h1{margin:0;font-size:28px;line-height:1.2;color:#ffc83a;text-shadow:2px 2px 0 #000}
+.sub{margin:2px 0 0;color:#8fd8ff;font-size:15px}
+h2{margin:32px 0 8px;font-size:20px;color:#ff9ad5}
+p,li{color:#e6defa}
+ul{padding-left:22px}
+a{color:#ffc83a}
+.card{background:#22134a;border:2px solid #4a2f8a;border-radius:14px;padding:16px 18px;margin:20px 0}
+.card strong{color:#fff}
+table{border-collapse:collapse;width:100%;font-size:15px}
+td,th{text-align:left;padding:6px 8px;border-bottom:1px solid #33215f;vertical-align:top}
+th{color:#ffe08a;font-weight:600}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid #33215f;color:#a596cc;font-size:14px}
+nav a{margin-right:16px}
